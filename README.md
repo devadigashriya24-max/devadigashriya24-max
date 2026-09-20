@@ -88,19 +88,7 @@ Data & Intelligent Applications
 
 ---
 
-## 📊 GitHub
 
-<div align="center">
-
-![Shriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devadigashriya24-max\&show_icons=true\&theme=transparent\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devadigashriya24-max\&layout=compact\&theme=transparent\&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
 
 ### ✨ Build. Learn. Improve. Repeat. ♡
 
