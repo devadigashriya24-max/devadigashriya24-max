@@ -57,24 +57,21 @@ AI-powered monitoring of industrial fires and persistent thermal sources using *
 
 An intelligent project communication platform that transforms conversations and documents into **tasks, follow-ups, decisions, and risks**.
 
-**[Live Demo](https://convexa-nplk5lnaz-devadigashriya24-max.vercel.app/)** · **[GitHub](https://github.com/devadigashriya24-max)**
-
+**[Live Demo](https://convexa-nplk5lnaz-devadigashriya24-max.vercel.app/)** · **[GitHub](https://github.com/devadigashriya24-max/CONVEXA)**
 ---
 
 ### ☠️ One Piece Web Page
 
 A themed React project created to practice **components, styling, layouts, and frontend development**.
 
-**[Live Demo](https://one-piece-webpage-2dcodw7x3-devadigashriya24-max.vercel.app/)** · **[GitHub](https://github.com/devadigashriya24-max)**
-
+**[Live Demo](https://one-piece-webpage-2dcodw7x3-devadigashriya24-max.vercel.app/)** · **[GitHub](https://github.com/devadigashriya24-max/one-piece-webpage)**
 ---
 
 ### 🎮 Rock Paper Scissors
 
 An interactive React project built to practice **state, user interaction, and dynamic UI updates**.
 
-**[Live Demo](https://rock-paper-scissors-dwk0r2c4k-devadigashriya24-max.vercel.app/)** · **[GitHub](https://github.com/devadigashriya24-max)**
-
+**[Live Demo](https://rock-paper-scissors-dwk0r2c4k-devadigashriya24-max.vercel.app/)** · **[GitHub](https://github.com/devadigashriya24-max/rock-paper-scissors)**
 ---
 
 ## 🌱 Currently Learning
